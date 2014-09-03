@@ -12,7 +12,7 @@ You need an i686 binary of Docker which has to be compiled by yourself.
 
 ## Installation
 
-Pull it from the public [Docker Hub Registry](https://registry.hub.docker.com/) registry:
+Pull it from the public [Docker Hub Registry](https://registry.hub.docker.com/):
 
     docker pull i686/irssi
 
